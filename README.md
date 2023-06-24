@@ -4,6 +4,6 @@
 <img src="https://github.com/candl3b0x/weather/assets/98771722/67e4ab93-7f9d-468f-84b7-a66c53967d10"/>
 
 # Using the app
- Tpye in a City name on the search feed and get weather updates and local time.
+ Type in a City name on the search feed and get weather updates and local time.
 # Api used
 - https://weatherapi-com.p.rapidapi.com/current.json
