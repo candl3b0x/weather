@@ -6,4 +6,4 @@
 # Using the app
  Type in a City name on the search feed and get weather updates and local time.
 # Api used
-- https://weatherapi-com.p.rapidapi.com/current.json
+-https://rapidapi.com/weatherapi/api/weatherapi-com/
